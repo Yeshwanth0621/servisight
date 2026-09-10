@@ -1,0 +1,3 @@
+target_id,target_name,x_mm,y_mm,z_mm,approach_x,approach_y,approach_z,fastener_size_mm,required_torque_nm,expected_result
+B001,Open Cover Bolt,-45,0,44,0,0,-1,10,22,ACCESSIBLE
+B002,Blocked Cover Bolt,45,0,44,0,0,-1,10,22,BLOCKED

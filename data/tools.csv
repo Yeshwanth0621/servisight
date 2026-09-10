@@ -1,0 +1,6 @@
+tool_id,tool_name,tool_category,shape,width_mm,height_mm,length_mm,tip_size_mm,torque_capacity_nm
+T001,10mm Standard Socket,Socket,Cylinder,16,16,70,10,35
+T002,10mm Deep Socket,Socket,Cylinder,16,16,110,10,35
+T003,10mm Combination Spanner,Spanner,Box,18,10,150,10,45
+T004,Small Ratchet,Ratchet,Box,24,20,115,10,40
+T005,Large Ratchet,Ratchet,Box,38,30,165,10,70
