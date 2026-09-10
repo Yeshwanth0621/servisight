@@ -84,7 +84,7 @@ def main():
 
         result = "BLOCKED" if collided else "ACCESSIBLE"
 
-        print(f"\\nTarget: {target['target_name']}")
+        print(f"Target: {target['target_name']}")
         print(f"Tool: {socket['tool_name']}")
         print(f"Result: {result}")
         print(f"Expected: {target['expected_result']}")
